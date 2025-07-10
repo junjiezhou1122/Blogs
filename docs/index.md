@@ -1,17 +1,52 @@
-# Welcome to MkDocs
+# 👋 Hi, I'm Junjie Zhou
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> _Exploring the beautiful intersection of science and technology._
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 🧑‍💻 About Me
 
-## Project layout
+I'm a **Computer Science student** driven by curiosity and a love for discovery. My journey weaves through the abstractions of 🧮 mathematics and the laws of 🌌 physics, always seeking the magic that happens where different fields meet. ✨
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## 🌱 Current Interests
+
+- 🤖 **Artifical Intelligence**
+- 🧠 **Cognitive Science**
+- 🌌 **Physics**
+- 💡 **Philosophy**
+
+---
+
+## 🚀 My Work
+
+- **[Learning Compass](https://github.com/junjiezhou1122/LearningCompass)**  
+  _A web application designed to enhance the online learning experience with tools for course management, AI-powered assistance, real-time chat, note-taking, and more._
+- **More Projects Coming Soon!**
+
+---
+
+## 💭 Thoughts & Resources
+
+> “The best way to predict the future is to invent it. But first, we must understand the present through multiple lenses of knowledge.”
+
+**Recommended Resources:**
+
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
+- [Berkeley Course Guides](https://guide.berkeley.edu/courses/)
+- [Andy Matuschak](https://andymatuschak.org/)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in meaningful conversations about technology, science, and ideas that shape our future.
+
+- [Notion](#)
+- [Email](mailto:junjie@example.com)
+- [GitHub](https://github.com/junjiezhou)
+
+---
+
+<p align="center">© 2024 Junjie Zhou. Crafted with curiosity and code.</p>
